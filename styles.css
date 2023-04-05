@@ -11290,3 +11290,8 @@ textarea.form-control-lg {
   border-radius: 20px;
 }
 
+body {margin-top:0px;} 
+.panel-title {display: inline;font-weight: bold;}
+.checkbox.pull-right { margin: 100px; }
+.pl-ziro { padding-left: 100px; }  
+ 
